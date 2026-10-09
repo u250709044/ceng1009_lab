@@ -1,7 +1,6 @@
 # Exercise 1
 # for i in range(100):
 #    print("""We like Python's turtles!""")
-from reportlab.lib.colors import fuchsia
 
 # Exercise 2
 # months = ["January" , "February", "March", "April", "May", "June", "July", "August","September","October", "November", "December"]
